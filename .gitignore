@@ -1,5 +1,27 @@
-.pdf
-.docx
-.csv
-.xlsx
-.svg
+# PDF files
+*.pdf
+
+# Word files
+*.docx
+*.doc
+
+# Excel files
+*.xlsx
+*.xls
+*.csv
+*.pbix
+*.pptx
+
+
+# SVG files
+*.svg
+
+# Temporary MS Office files
+~$*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
