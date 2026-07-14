@@ -1,0 +1,31 @@
+MINI PROJECT: OTT Streaming Platform User Segmentation
+
+Goal:
+Segment users using K-Means Clustering.
+
+Use Features:
+1. Watch_Hours_Per_Month
+2. Login_Days_Per_Month
+3. Content_Rating_Score
+(Optional: Age, Subscription_Months)
+
+Student Tasks:
+1. Import libraries.
+2. Load dataset.
+3. Explore dataset (head, info, describe, null values).
+4. Select numerical features.
+5. Apply StandardScaler.
+6. Find optimal K using Elbow Method.
+7. Train KMeans.
+8. Add Cluster column.
+9. Visualize clusters.
+10. Interpret each cluster.
+11. Write predict_user_cluster() function.
+12. Save final CSV.
+
+Business Questions:
+- Which users are binge watchers?
+- Which users are inactive?
+- Which users are highly engaged?
+- Which users should receive premium offers?
+- Which users are at risk of churn?
