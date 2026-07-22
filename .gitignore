@@ -17,6 +17,7 @@
 *.svg
 .png
 .jpg
+*.jfif
 
 # Temporary MS Office files
 ~$*
@@ -27,3 +28,4 @@
 # Python cache
 __pycache__/
 *.pyc
+* C:\Users\Vishnu\Desktop\Python_Evening\phot
