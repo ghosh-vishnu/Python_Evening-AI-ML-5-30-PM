@@ -1,0 +1,7 @@
+# NOTE: install opencv-contrib-python ONLY (not opencv-python too).
+# contrib already includes everything in opencv-python, plus the
+# cv2.face module we need for LBPH face recognition. Installing both
+# causes import conflicts.
+opencv-contrib-python==4.10.0.84
+numpy==1.26.4
+Pillow==10.4.0

@@ -29,3 +29,17 @@
 __pycache__/
 *.pyc
 * C:\Users\Vishnu\Desktop\Python_Evening\phot
+
+
+# Face Recognition Dataset
+archive/AI_Face_Recognition/dataset/
+
+# Trained Model (agar GitHub par upload nahi karna)
+archive/AI_Face_Recognition/model/
+
+# Zip Files
+*.zip
+
+# Python Cache
+__pycache__/
+*.pyc
